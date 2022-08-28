@@ -1,11 +1,14 @@
 # Tore-Lesson-02
 第２回 みんなで学ぶUnity/C# XR開発入門編で作成したプロジェクト
+
 ## 動作確認
 1. git cloneで任意のディレクトリにclone
 2. Unity Hubの Open > Add project from diskでcloneしたプロジェクトを選択
 3. Unity Editorで開く
-4. 必要なアセットをアセットストアからインポート(利用したアセットは後述)
-5. マテリアルをURP用に変換(materialを選択 > 上部タブのEdit > Rendering > Materials > Convert Selected Build-in Materials to URP )
+4. /Assets/Scenes/AlienBusterを選択
+5. 必要なアセットをアセットストアからインポート(利用したアセットは後述)
+6. マテリアルをURP用に変換(materialを選択 > 上部タブのEdit > Rendering > Materials > Convert Selected Build-in Materials to URP )
+7. Untiy Editorから実行
 
 ## 利用したアセット
 以下のアセットを利用させていただきました
